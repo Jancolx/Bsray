@@ -1,40 +1,35 @@
 # Hi, I'm Bhabani Sankar Ray! 👋
 
-## 🚀 AWS Admin |AI-ML Enthusiast
+## ☁️ AWS Administrator | Tech Lead | Cloud Security Specialist
 
-> **Bridging Cloud Excellence with Artificial Intelligence**
+> **Building Resilient Cloud Infrastructure at Enterprise Scale**
 
-📍 **Location:** Bhubaneswar, Odisha | 🎓 **MTech AI @ IIT Jodhpur** | 💼 **Tech Lead @ Cognizant**
+📍 **Bhubaneswar, Odisha** | 🎓 **MTech Data Science @ IIT Jodhpur** | 💼 **Tech Lead @ Cognizant**
 
-### 🔥 **What I Do**
-- 🏗️ **Data Architecture:** Design scalable data pipelines on AWS serving 50K+ daily users
-- ☁️ **Cloud Management:** Manage 400+ AWS accounts with 99.95% uptime
-- 🤖 **AI/ML Integration:** Building MLOps pipelines and cloud-native AI solutions
-- 💡 **Cost Optimization:** Delivered $50K+ annual savings through strategic automation
+### 🚀 **What I Do**
+- 🏗️ **AWS Infrastructure:** Manage 400+ AWS accounts with 99.99% uptime
+- 🔒 **Cloud Security:** Zero security incidents across enterprise environments  
+- ⚡ **Automation:** Reduced deployment time by 40% using Terraform & Ansible
+- 💰 **Cost Optimization:** Delivered 10% operational cost reduction through strategic resource management
 
-### 🛠️ **Technical Arsenal**
+### 🛠️ **Technical Expertise**
 
-**AWS Data Services**
+**AWS Core Services**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EMR](https://img.shields.io/badge/AWS_EMR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![CloudFront](https://img.shields.io/badge/AWS_CloudFront-FF9900?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
 
-**Programming & Big Data**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Infrastructure & DevOps**
+**Infrastructure & Automation**
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📊 **GitHub Stats**
+**Monitoring & Security**
+![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 
-
-
-### 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhabani-sankar-ray-33b372137)
-
----
-⭐ **Open for:** AWS Consulting | Data Architecture Projects | AI/ML Collaborations
+### 📊 **Professional Impact**
