@@ -4,7 +4,7 @@
 
 > **Building Resilient Cloud Infrastructure at Enterprise Scale**
 
-📍 **Bhubaneswar, Odisha** | 🎓 **MTech Data Science @ IIT Jodhpur** | 💼 **Tech Lead @ Cognizant**
+📍 **Bhubaneswar, Odisha** | 🎓 **MTech AI @ IIT Jodhpur** | 💼 **Tech Lead @ Cognizant**
 
 ### 🚀 **What I Do**
 - 🏗️ **AWS Infrastructure:** Manage 400+ AWS accounts with 99.99% uptime
